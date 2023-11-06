@@ -1,0 +1,5 @@
+baseURL = 'https://lqy.one/'
+languageCode = 'zh-TW'
+title = 'Qiao-Yi, Lin'
+theme= 'terminal'
+
