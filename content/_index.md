@@ -18,6 +18,7 @@ to be presented at the IEEE 5th Eurasia Conference on IoT, Communication and Eng
 - CPE(20231017): 3題 PR95
 - IBM Advocator
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
+- D-Wave Quantum Programming - Core
 
 ## 競賽
 ### 2023
