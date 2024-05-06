@@ -2,32 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qiao-Yi, Lin</title>
-    <link>https://lqy.one/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Qiao-Yi, Lin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://lqy.one/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://lqy.one/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lqy.one/contact/</guid>
-      <description>Name: 林橋毅
-E-Mail: lqy93@aol.com、linqiaoyi213@gmail.com、111502563@cc.ncu.edu.tw
-GitHub: @qiaoyi213
-Linkedin: linqiaoyi213
-Facebook: 林橋毅（Qiao-Yi, Lin）</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Name: 林橋毅&#xA;E-Mail: me@lqy.one&#xA;GitHub: @qiaoyi213&#xA;Linkedin: linqiaoyi213&#xA;Facebook: 林橋毅（Qiao-Yi, Lin）</description>
     </item>
     <item>
       <title>Qiao-Yi, Lin</title>
-      <link>https://lqy.one/_index_en/</link>
+      <link>http://localhost:1313/_index_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lqy.one/_index_en/</guid>
-      <description>中文/English
-About Me I am a student in National Central University, major in Computer Science and Information Engineering.
-I also as a member in ACAN Lab. I mainly research quantum computing and quantum information.
-Publications International Conference Paper [1] Jehn-Ruey Jiang, and Qiao-Yi Lin, &amp;ldquo;Solving the Maximum Independent Set Problem Using Analog Neutral Atom Quantum Computers,&amp;rdquo;
-to be presented at the IEEE 5th Eurasia Conference on IoT, Communication and Engineering (IEEE ECICE 2023), October 27-29, 2023.</description>
+      <guid>http://localhost:1313/_index_en/</guid>
+      <description>中文/English&#xA;About Me I am a student in National Central University, major in Computer Science and Information Engineering.&#xA;I also as a member in ACAN Lab. I mainly research quantum computing and quantum information.&#xA;Publications International Conference Paper [1] Jehn-Ruey Jiang, and Qiao-Yi Lin, &amp;ldquo;Solving the Maximum Independent Set Problem Using Analog Neutral Atom Quantum Computers,&amp;rdquo;&#xA;to be presented at the IEEE 5th Eurasia Conference on IoT, Communication and Engineering (IEEE ECICE 2023), October 27-29, 2023.</description>
     </item>
   </channel>
 </rss>
